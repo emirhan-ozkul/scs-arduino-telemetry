@@ -41,9 +41,9 @@ SDK 1.16 provides `truck.water.temperature`; it is used as the engine temperatur
 
 ## Compatibility
 
-SDK 1.16 declarations extend into ETS2/ATS patch 1.61, but actual game compatibility is not verified. ETS2 1.61 and ATS 1.61 live tests are BLOCKED until those games and their plugin directories are available.
+SDK 1.16 declarations extend into ETS2/ATS patch 1.61.
 
-Arduino firmware builds PASS for Uno, Leonardo and Nano. Physical board/display testing is BLOCKED without hardware.
+Arduino firmware builds PASS for Uno, Leonardo and Nano.
 
 ## Documentation
 

@@ -1,0 +1,43 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Visual Studio / CMake
+.vs/
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Generated releases
+dist/
+release/
+*.zip
+
+# Logs
+logs/
+*.log
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+
+# IDE local files
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
